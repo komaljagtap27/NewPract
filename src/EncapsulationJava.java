@@ -6,7 +6,6 @@ void setValue(int n){
 	value=n;
 }
 int getValue(int n){
-	
 	 return value;
 }
 }
